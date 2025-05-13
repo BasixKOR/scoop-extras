@@ -1,10 +1,10 @@
 {
-    "version": "2.0.9",
+    "version": "2.0.10.4000",
     "description": "Audio player which tries to make organizing and listening to music as simple and pretty as possible.",
     "homepage": "https://www.digimezzo.com/software/dopamine/",
     "license": "GPL-3.0-only",
-    "url": "https://www.digimezzo.com/content/software/dopamine/Dopamine%202.0.9%20(Release)%20-%20Portable.zip",
-    "hash": "fd5ec9aa1c6f9a2a21244a65f9d77ef20614422c9ce6df75614ba8edb09c8b08",
+    "url": "https://www.digimezzo.com/content/software/dopamine/Dopamine%202.0.10.4000%20(Release)%20-%20Portable.zip",
+    "hash": "1ff6d5f2f94f937cdb8dd869f2ba8db09a13e6f1f28b4d3dae506c189db737e6",
     "shortcuts": [
         [
             "Dopamine.exe",
